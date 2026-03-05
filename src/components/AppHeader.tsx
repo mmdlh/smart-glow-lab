@@ -44,15 +44,12 @@ const AppHeader = () => {
             }} />
           </div>
           <div className="flex flex-col">
-            <span className="font-display font-extrabold text-xl leading-tight tracking-tight" style={{
+            <span className="font-display font-extrabold text-2xl leading-tight tracking-tight" style={{
               background: "linear-gradient(135deg, hsl(190 85% 38%), hsl(210 80% 45%))",
               WebkitBackgroundClip: "text",
               WebkitTextFillColor: "transparent",
             }}>
               智慧照明平台
-            </span>
-            <span className="text-[10px] text-muted-foreground leading-none tracking-[0.2em] uppercase font-medium">
-              Smart Lighting Platform
             </span>
           </div>
           {/* Divider */}
