@@ -49,7 +49,7 @@ const AppHeader = () => {
               WebkitBackgroundClip: "text",
               WebkitTextFillColor: "transparent",
             }}>
-              LumiCore
+              智慧照明平台
             </span>
             <span className="text-[10px] text-muted-foreground leading-none tracking-[0.2em] uppercase font-medium">
               Smart Lighting Platform
