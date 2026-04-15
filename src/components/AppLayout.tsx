@@ -19,7 +19,7 @@ const AppLayout = () => {
       <div
         className="fixed inset-0 -z-10"
         style={{
-          background: "linear-gradient(180deg, hsl(210 30% 97% / 0.75) 0%, hsl(200 40% 96% / 0.65) 50%, hsl(210 30% 97% / 0.7) 100%)",
+          background: "linear-gradient(180deg, hsl(210 30% 97% / 0.45) 0%, hsl(200 40% 96% / 0.35) 50%, hsl(210 30% 97% / 0.4) 100%)",
         }}
       />
       <AppHeader />
